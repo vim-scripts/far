@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1467
+
+This color scheme is very similar to FAR(http://www.rarsoft.com) internal editor one.
+I use Vim on Unix environment (vim) as replacement of Midnight Commander's internal editor and on Win32 env (gvim) as replacement of FAR internal editor.
